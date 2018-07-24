@@ -1,0 +1,14 @@
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\bin\Debug\ThermometerTest.exe.config
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\bin\Debug\ThermometerTest.exe
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\bin\Debug\ThermometerTest.pdb
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.csprojResolveAssemblyReference.cache
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.csproj.CoreCompileInputs.cache
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.exe
+C:\Users\minat\Documents\GitHub\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.pdb
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\bin\Debug\ThermometerTest.exe.config
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\bin\Debug\ThermometerTest.exe
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\bin\Debug\ThermometerTest.pdb
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.csprojResolveAssemblyReference.cache
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.csproj.CoreCompileInputs.cache
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.exe
+C:\Users\minat\Documents\GitHub\C# case study\ThermometerTest\ThermometerTest\obj\Debug\ThermometerTest.pdb
